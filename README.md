@@ -21,7 +21,7 @@ npm install
 _La información sera persistente por lo que podras terminar la ejecución de la app sin perder las tareas que hayas registrado_
 
 
-![Console Preview](https://github.com/JosmiixD/node-todo-console-app/blob/main/preview/todo-console-app.gif)
+![Console Preview](https://github.com/JosmiixD/node-todo-console-app/blob/main/preview/Todo-console-preview.gif)
 
 
 ## Construido con 🛠️
