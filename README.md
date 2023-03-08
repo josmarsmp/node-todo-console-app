@@ -34,7 +34,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Autor ✒️
 
-* **Josmar Salvador** - *Owner* - [JosmiixD](https://github.com/JosmiixD)
+* **Josmar Salvador** - *Owner* - [JosmiarSMP](https://github.com/josmarsmp)
 
 
 ## Expresiones de Gratitud 🎁
@@ -45,4 +45,4 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 
 ---
-⌨️ con ❤️ por [Josmar Salvador](https://github.com/JosmiixD) 😊
+⌨️ con ❤️ por [Josmar Salvador](https://github.com/josmarsmp) 😊
